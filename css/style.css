@@ -2,7 +2,7 @@ body {
     display: grid;
     grid-template-columns: 550px auto;
     margin: 0;
-    font-size: 20px;
+    font-size: 25px;
 }
 .pp {
     position: absolute;
@@ -13,15 +13,15 @@ body {
 }
 /* LEFT SIDE */
 .left-slide {
-    background-color: yellow;
+    background-color: #e8dff5;
 }
 .left-container {
     margin-top: 600px;
     margin-left: 100px;
 }
 .left-title-box {
-    background-color: black;
-    color: white; 
+    background-color: rgb(255, 255, 255);
+    color: black; 
     width: 220px;
     padding-left: 20px;
     padding-top: 5px; 
@@ -88,11 +88,11 @@ body {
     padding: 0.01em 16px; 
     text-align: center; 
     color: #fff; 
-    background-color: #000;
+    background-color: #ffb6f3;
 }
 /* RIGHT SIDE */
 .right-side {
-    background-color: black;
+    background-color: #9cadce;
     color: white;
 }
 .name-container {
@@ -101,7 +101,7 @@ body {
 }
 .name-profile {
     width: 700px;
-    background-color: yellow;
+    background-color: #e2e2e2;
     text-align: left;
     font-size: 60px; 
     font-weight: bold;
@@ -120,7 +120,7 @@ body {
 }
 .name-profile-divider {
     height: 10px;
-    background-color: black;
+    background-color: #d1cfe2;
 }
 .name-profile-divider-first {
     margin-bottom: 10px; 
@@ -183,13 +183,13 @@ body {
     font-size: 23px;
     font-weight: bold;
     margin-top: 25px; 
-    color: yellow;
+    color: rgb(0, 0, 0);
 }
 .right-time {
     margin-top: 15px;
     width: 150px;
     border-bottom-style: solid;
-    border-color: yellow;
+    border-color: #957dad;
     font-weight: bold;
 }
 .right-value-text {
@@ -204,7 +204,7 @@ body {
     margin-top: 25px;
     font-size: 23px;
     font-weight: bold;
-    color: yellow;
+    color: black;
 }
 .right-value-item {
     width: 300px;
@@ -216,7 +216,7 @@ body {
     text-align: -webkit-right;
 }
 .sosmed-content {
-    background-color: yellow; 
+    background-color: #e2e2e2; 
     text-align: left;
     font-size: 25px;
     font-weight: bold;
@@ -227,7 +227,7 @@ body {
 .sosmed {
     margin-left: 15px;
     flex-grow: 0;
-    color: black;
+    color: rgb(0, 0, 0);
     display: flex;
 }
 .sosmed-text {
@@ -241,7 +241,7 @@ body {
 }
 .sosmed-divider {
     height: 8px;
-    background-color: black;
+    background-color: #d1cfe2;
 }
 .sosmed-divider-first {
     margin-bottom: 10px;
